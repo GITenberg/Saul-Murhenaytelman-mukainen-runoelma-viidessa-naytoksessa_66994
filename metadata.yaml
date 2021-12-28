@@ -1,5 +1,8 @@
 _repo: Saul-Murhenaytelman-mukainen-runoelma-viidessa-naytoksessa_66994
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Törneroos, Antti
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44297'
     url: http://www.gutenberg.org/2009/agents/44297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66994#Saul-Murhenaytelman-mukainen-runoelma-viidessa-naytoksessa
 gutenberg_issued: '2021-12-22'
 identifiers:
   gutenberg: '66994'
